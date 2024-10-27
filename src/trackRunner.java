@@ -6,7 +6,7 @@ public class trackRunner {
         System.out.println("hold on, lemme calculate it");
         System.out.println("I can run " + topSpeed + "mph");
 
-        System.out.println("Nah, id win");
+        System.out.println("Nah, id win (respectfully)");
 
     }
 }
